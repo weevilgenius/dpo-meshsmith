@@ -6,4 +6,4 @@
 	url = https://github.com/framelab/assimp
 [submodule "libs/flow-libs"]
 	path = libs/flow-libs
-	url = https://github.com/framelab/flow-libs
+	url = https://github.com/weevilgenius/flow-libs
